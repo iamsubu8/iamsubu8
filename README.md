@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamsubu8
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning javascript,python,mongodb,express,html,css,bootstarp
+- 🌱 I’m currently learning javascript,python,c#,mongodb,Django,.NET,express,html,css,bootstarp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
